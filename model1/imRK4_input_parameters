@@ -1,0 +1,19 @@
+&parameters
+ w0 = 5.788381d-5
+ w1 = 5.788381d-6 
+ w = 11.576762d-6
+ lambda_p = 0.d0
+ lambda_o = -0.05d0
+ N = 1
+ integration_time = 5.d6
+ Yn_initial = 0.d0 1.d0
+ linear = F
+ sc_tol = 0.00001
+ delta = 0.9d0
+ ATOL = 1.d-4
+ RTOL = 1.d-4
+ alpha = 0.7d0
+ beta = 0.4d0
+/
+
+
