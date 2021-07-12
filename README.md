@@ -10,9 +10,9 @@ Where $`\vec{B}_0`$ and $`\vec{B}_1(t)`$ are the static and oscillatory magnetic
 Here, an initial wavefunction (wave-vector) is propagated using the fourth-order embedded Runge-Kutta scheme (**imRK4**). 
 
 # Method references:
-[1] Butcher, J.C.The numerical analysis of ordinary differential equations: Runge-Kutta andgeneral linear methods(Wiley-Interscience, 1987).
+[1] Butcher, J.C.The numerical analysis of ordinary differential equations: Runge-Kutta and general linear methods(Wiley-Interscience, 1987).
 
-[[2] ](https://core.ac.uk/download/pdf/196658294.pdf)Rang, J.Apdative Timestep Control for Fully Implicit Runge-Kutta Methods of Higher Order(UnivBibl., 2014).
+[[2] ](https://core.ac.uk/download/pdf/196658294.pdf)Rang, J.Apdative Time step Control for Fully Implicit Runge-Kutta Methods of Higher Order(UnivBibl., 2014).
 
 
 
